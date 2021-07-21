@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game Battle of Castle</string>
+    <string name="battle">Battle</string>
+    <string name="its_time_to_show_your_might">Its time to show your might!!.</string>
+    <string name="playerone">PlayerOne</string>
+    <string name="playertwo">PlayerTwo</string>
+    <string name="imgplayer2">imgPlayer2</string>
+    <string name="imgplayer1">imgPlayer1</string>
+    <string name="versus">Versus</string>
+    <string name="background">Background</string>
+    <string name="win">Win</string>
+</resources>
